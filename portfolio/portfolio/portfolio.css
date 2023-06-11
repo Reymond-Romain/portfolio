@@ -1,0 +1,31 @@
+main {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap-reverse;
+}
+
+body {
+  font-family:Trebuchet MS;
+  background-image: url("./img/932271.jpg");
+  
+}
+
+a:hover{
+  color:purple
+}
+
+a{
+  color:rgb(57, 154, 235)
+}
+
+header nav ul{
+  list-style: none;
+  display:flex;
+  gap:50px;
+}
+
+aside{
+  flex-basis:300px;
+}
+
+
