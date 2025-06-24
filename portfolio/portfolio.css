@@ -1,6 +1,5 @@
 main {
   display: flex;
-  gap: 10px;
   flex-wrap: wrap;
   flex-direction: row;
   word-wrap:break-word;
@@ -53,7 +52,7 @@ article{
 
 body {
   font-family:Trebuchet MS;
-  background-color: white;
+  background-color: paleturquoise;
   margin:0 0 0 0;
   
 }
